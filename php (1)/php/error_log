@@ -1,0 +1,13 @@
+[10-Jul-2022 12:25:43 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/lewelain/public_html/mynewtutor/php/load_mycartqty.php on line 12
+[10-Jul-2022 12:25:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/lewelain/public_html/mynewtutor/php/load_mycartqty.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/lewelain/public_html/mynewtutor/php/load_mycartqty.php on line 14
+[10-Jul-2022 12:25:43 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/lewelain/public_html/mynewtutor/php/load_cart.php on line 11
+[10-Jul-2022 12:25:43 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/lewelain/public_html/mynewtutor/php/load_cart.php on line 12
+[10-Jul-2022 13:23:49 UTC] PHP Notice:  Undefined index: email in /home/lewelain/public_html/mynewtutor/php/load_mycartqty.php on line 9
+[10-Jul-2022 13:23:49 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/lewelain/public_html/mynewtutor/php/load_mycartqty.php on line 12
+[10-Jul-2022 13:23:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/lewelain/public_html/mynewtutor/php/load_mycartqty.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/lewelain/public_html/mynewtutor/php/load_mycartqty.php on line 14
